@@ -1,5 +1,5 @@
 ## 
-![Header](./your-header-image-name.png)
+![Header](./hamsammich00-header.png)
 🔭 I try to learn PowerShell when I'm bored
 📫 How to reach me: Check my Github Pages site at https://hamsammich00.github.io/ for all my info at
 <!--
