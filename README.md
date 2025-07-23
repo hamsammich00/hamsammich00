@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## 
+![Header](./your-header-image-name.png)
+🔭 I try to learn PowerShell when I'm bored
+📫 How to reach me: Check my Github Pages site at https://hamsammich00.github.io/ for all my info at
 <!--
 **hamsammich00/hamsammich00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
