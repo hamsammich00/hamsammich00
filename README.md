@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&duration=5555&pause=1000&color=07F700&width=435&lines=hamsammich00" alt="Typing SVG" /></a>  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=5555&pause=1000&color=07F700&width=435&lines=Just+a+sys+admin" alt="Typing SVG" /></a>  
 🔭 I try to learn PowerShell when I'm bored  
-📫 How to reach me: Check my Github Pages site at https://hamsammich00.github.io/ for all my info
+📫 Check my Github Pages site at https://hamsammich00.github.io/ for all my info
 <!--
 **hamsammich00/hamsammich00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
