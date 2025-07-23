@@ -1,7 +1,7 @@
 ## 
 <!--![Header](./hamsammich00-header.png)  -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=07F700&width=435&lines=hamsammich00" alt="Typing SVG" /></a>  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&pause=1000&color=07F700&width=435&lines=Just+a+sys+admin" alt="Typing SVG" /></a>  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&duration=5555&pause=1000&color=07F700&width=435&lines=hamsammich00" alt="Typing SVG" /></a>  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=5555&pause=1000&color=07F700&width=435&lines=Just+a+sys+admin" alt="Typing SVG" /></a>  
 🔭 I try to learn PowerShell when I'm bored  
 📫 How to reach me: Check my Github Pages site at https://hamsammich00.github.io/ for all my info
 <!--
